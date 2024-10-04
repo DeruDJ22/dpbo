@@ -2,7 +2,7 @@ package minggu_4;
 import java.text.NumberFormat;
 import java.util.Locale;
 
-class main {
+public class main {
 
     public static void main(String[] args) {
         publication threeKingdom = new publication();
